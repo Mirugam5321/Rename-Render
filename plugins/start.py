@@ -20,7 +20,7 @@ async def start(client, message):
         await db.add_user(user.id)             
     txt=f"👋 Hello {user.mention} \n\nI am an Advance file Renamer and file Converter BOT with Custom thumbnail support.\n\nSend me any video or document !"
     button=InlineKeyboardMarkup([[
-        InlineKeyboardButton(" Developer ", url='https://t.me/anjel_neha')
+        InlineKeyboardButton(" Developer ", url='https://t.me/Leo1_LinkZ')
         ],[
         InlineKeyboardButton(' Updates', url='https://t.me/Leo1_LinkZ'),
         InlineKeyboardButton(' Support', url='https://t.me/webseriess0')
